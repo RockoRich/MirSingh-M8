@@ -10,4 +10,14 @@ h1{
     font-size: 350%;
 }
 
+.img-fluid{
+    width: 3%;
+    
+}
+
+.img-fluid:hover{
+    animation: pulse;
+    animation-duration: 0.5s;
+}
+
 
