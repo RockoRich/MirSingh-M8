@@ -20,4 +20,10 @@ h1{
     animation-duration: 0.5s;
 }
 
+.animacion{
+            animation: zoomIn;
+            animation-duration: 3s;
+
+        }
+
 
