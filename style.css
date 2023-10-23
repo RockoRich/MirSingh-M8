@@ -4,6 +4,7 @@
 
 .container {
     margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 h1{
@@ -21,9 +22,15 @@ h1{
 }
 
 .animacion{
-            animation: zoomIn;
-            animation-duration: 3s;
+    animation: zoomIn;
+    animation-duration: 3s;
 
-        }
+}
 
+
+#img{
+    padding-left: 10px;
+    display: block;
+    display: inline;
+}
 
